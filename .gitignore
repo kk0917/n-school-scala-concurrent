@@ -1,0 +1,6 @@
+#Scala settings
+.bsp
+target/
+
+# IDE setings
+.idea
